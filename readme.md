@@ -1,6 +1,6 @@
-
-
 ##Задача:
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feg00%2Fgrid.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Feg00%2Fgrid?ref=badge_shield)
+
 
 Реализовать веб-приложение позволяющее управлять отделами и сотрудниками предприятия, а так же просматривать их связи на &quot;сетке&quot;.
 
@@ -93,3 +93,7 @@ https://grid.2ql.ru/
      php artisan db:seed
      php artisan serve
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feg00%2Fgrid.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Feg00%2Fgrid?ref=badge_large)
