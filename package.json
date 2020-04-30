@@ -12,7 +12,7 @@
     "devDependencies": {
         "bootstrap": "^4.3.1",
         "cross-env": "^5.2",
-        "jquery": "^3.3",
+        "jquery": "^3.5",
         "laravel-mix": "^4.0",
         "laravel-mix-purgecss": "^4.1.0",
         "mdbootstrap": "^4.7.5",
